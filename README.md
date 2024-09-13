@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Memory updated<br>Here's an engaging GitHub introduction for you:<br><br>Hi there! 👋 I'm Siddhesh Jagdale<br>🎓 B.Tech in Electronics and Telecommunications<br>💻 Full-Stack Developer specializing in the MERN Stack<br>⚙️ Proficient in Python, C++, C, and Next.js<br>📊 Working with Prisma and PostgreSQL for robust backend solutions<br>🎨 Creative with Canva for UI/UX designs<br><br>I'm passionate about building scalable web applications and continually learning new technologies to enhance my skills. Check out my projects below and feel free to reach out! 😊
+<br>Hi there! 👋 I'm Siddhesh Jagdale<br>🎓 B.Tech in Electronics and Telecommunications<br>💻 Full-Stack Developer specializing in the MERN Stack<br>⚙️ Proficient in Python, C++, C, and Next.js<br>📊 Working with Prisma and PostgreSQL for robust backend solutions<br>🎨 Creative with Canva for UI/UX designs<br><br>I'm passionate about building scalable web applications and continually learning new technologies to enhance my skills. Check out my projects below and feel free to reach out! 😊
 
 
 ## 🌐 Socials:
